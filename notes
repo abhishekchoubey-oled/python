@@ -1,0 +1,20 @@
+Install "pipenv" to create virtual environment and then install everything inside it.
+
+> pipenv shell : create a virtual environment.
+
+
+
+
+
+Virtual env location - 
+Creating a virtualenv for this project…
+Pipfile: /home/abhishek/Desktop/workspace/python/Pipfile
+Using /usr/bin/python3 (3.6.9) to create virtualenv…
+⠸ Creating virtual environment...created virtual environment CPython3.6.9.final.0-64 in 200ms
+  creator CPython3Posix(dest=/home/abhishek/.local/share/virtualenvs/python-frVjP8ZM, clear=False, global=False)
+  seeder FromAppData(download=False, pip=latest, setuptools=latest, wheel=latest, via=copy, app_data_dir=/home/abhishek/.local/share/virtualenv/seed-app-data/v1)
+  activators BashActivator,CShellActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator
+
+✔ Successfully created virtual environment! 
+Virtualenv location: /home/abhishek/.local/share/virtualenvs/python-frVjP8ZM
+
