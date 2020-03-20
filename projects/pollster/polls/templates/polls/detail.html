@@ -1,0 +1,10 @@
+{% extends 'polls/layout.html'%}
+
+{% block content %}
+<h1>{{poll.title}}</h1>
+{{poll.body}}
+<br />
+{{poll.date}}
+<br />
+<a href="/polls">Go back</a>
+{% endblock %}

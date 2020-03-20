@@ -18,3 +18,14 @@ Using /usr/bin/python3 (3.6.9) to create virtualenv…
 ✔ Successfully created virtual environment! 
 Virtualenv location: /home/abhishek/.local/share/virtualenvs/python-frVjP8ZM
 
+
+
+
+
+
+
+Stepwise - 
+After default server runs.
+
+Use manage.py to create a superuser to login to the django-admin account.
+> manage.py createsuperuser --username="root" --email="root@root.root"
